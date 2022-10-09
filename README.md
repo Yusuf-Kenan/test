@@ -8,4 +8,4 @@ Fotograflarda Burak Keles inanilmaz isler cikardi.
 
 <h2>Ekran Gifi</h2>
 
-<img src="recelinannesi.gif">
+![](recelinannesi.gif)
